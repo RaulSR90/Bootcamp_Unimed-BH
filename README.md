@@ -1,4 +1,4 @@
-## Geração Tech Unimed-BH | Fullstack <img src="https://hermes.digitalinnovation.one/tracks/a982287c-ffb1-4c4a-87dd-ea81e7f50ac4.png" alt="Alt" style="zoom:3%;" />
+## Geração Tech Unimed-BH | Fullstack <img src="https://hermes.digitalinnovation.one/tracks/a982287c-ffb1-4c4a-87dd-ea81e7f50ac4.png" alt="Alt" style="zoom:2%;" />
 
 ### Digital Innovation One :computer:
 
@@ -12,7 +12,7 @@
 
 [Perfil DIO](https://web.dio.me/users/raulrodrigues1990_33357?tab=achievements)
 
-<img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="Alt" style="zoom:5%;" /> [@rodriguesrauldesouza](https://www.instagram.com/rodriguesrauldesouza/)
+[@rodriguesrauldesouza](https://www.instagram.com/rodriguesrauldesouza/)
 
 
 
